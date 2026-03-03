@@ -1,0 +1,5 @@
+base_url: "http://localhost/database_javascript/project1/Frontend/index.html"
+browser: "chrome"
+implicit_wait: 10
+username: "testuser"
+password: "testpass"
