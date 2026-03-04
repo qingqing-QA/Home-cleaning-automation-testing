@@ -1,6 +1,6 @@
-# E-commerce Automation Testing Framework
+# Homecleaning Automation Testing Framework
 
-This project is an automated testing framework for E-commerce web applications using Python, Selenium, and Pytest.
+This project is an automated testing framework for Homecleaning web applications using Python, Selenium, and Pytest.
 
 ## Features
 - Page Object Model (POM) design
