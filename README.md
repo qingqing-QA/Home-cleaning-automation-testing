@@ -11,5 +11,5 @@ This project is an automated testing framework for Homecleaning web applications
 ## Installation
 ```bash
 git clone https://github.com/yourusername/ecommerce-automation-testing.git
-cd ecommerce-automation-testing
+cd homecleaning-automation-testing
 pip install -r requirements.txt
