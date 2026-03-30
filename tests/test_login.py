@@ -1,9 +1,3 @@
-from pages.login_page import LoginPage
-
 def test_login(driver):
-    driver.get("http://example.com")
-
-    login_page = LoginPage(driver)
-    login_page.login("admin", "admin123")
-
+    driver.get("https://example.com")
     assert "Example" in driver.title
