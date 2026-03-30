@@ -3,3 +3,4 @@ pytest
 pytest-html
 pyyaml
 webdriver-manager
+requests
